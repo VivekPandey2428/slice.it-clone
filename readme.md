@@ -3,3 +3,6 @@
  resolution->1920*1080
  , font size and scaling: 125%;
  , Display Orientation-> Landscape
+
+
+The videos in website might not load first as i am accessing through online link just refresh it 2-3 times and it will work.
